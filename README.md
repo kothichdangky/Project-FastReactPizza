@@ -9,7 +9,20 @@ Fast React Pizza là 1 dựa án đặt pizza đơn giản, nơi người dùng 
 #### Điền tên để vào menu
 <img src="./img/name.PNG" width="700" />
 
+#### Menu
+<img src="./img/menu.PNG" width="700" />
 
+#### Thanh cart
+<img src="./img/seeCart.PNG" width="700" />
+
+#### Cart
+<img src="./img/inCart.PNG" width="700" />
+
+#### Tạo order
+<img src="./img/createOrder.PNG" width="700" />
+
+#### Orer
+<img src="./img/order.PNG" width="700" />
 
 ## 3. Chức năng
  .Bỏ những cái bánh pizza vào cart<br>
