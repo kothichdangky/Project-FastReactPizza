@@ -6,8 +6,7 @@ This is learning projects developed during my React studies to showcase the skil
 Fast React Pizza là 1 dựa án đặt pizza đơn giản, nơi người dùng có thể dễ dàng đặt và quản lý đơn hàng của mình
 
 ## 2. Hình ảnh giao diện
-![CreateName](./img/name.PNG)
-<img src="./img/name.PNG" width="400" />
+<img src="./img/name.PNG" width="700" />
 ## 3. Chức năng
  .Bỏ những cái bánh pizza vào cart<br>
  .Thanh toán các sản phẩm trong cart<br>
