@@ -8,10 +8,10 @@ Fast React Pizza là 1 dựa án đặt pizza đơn giản, nơi người dùng 
 ## 2. Hình ảnh giao diện
 
 ## 3. Chức năng
- .Bỏ những cái bánh pizza vào cart
- .Thanh toán các sản phẩm trong cart
- .Xuất hoá đơn thanh toán
- .Có thể tìm kiếm các order của mình sau khi hoàn thành
+ .Bỏ những cái bánh pizza vào cart<br>
+ .Thanh toán các sản phẩm trong cart<br>
+ .Xuất hoá đơn thanh toán<br>
+ .Có thể tìm kiếm các order của mình sau khi hoàn thành<br>
 
 ## 4. Công nghệ sử dụng
  . JavaScript<br>
